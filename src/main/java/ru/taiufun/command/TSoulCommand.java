@@ -27,7 +27,7 @@ public class TSoulCommand implements CommandExecutor {
             case "give"   -> give.execute(sender, args);
             case "delete" -> delete.execute(sender, args);
             case "list"   -> list.execute(sender, args);
-            default       -> sender.sendMessage("§cUnknown subcommand");
+            default       -> sender.sendMessage("§cUnknown sub-command: create|delete|list");
         }
         return true;
     }
