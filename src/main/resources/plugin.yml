@@ -1,0 +1,10 @@
+name: TaiufunSoul
+version: 1.0
+main: ru.taiufun.TaiufunSoul
+commands:
+  tsoul:
+    usage: /<command> <create|give|delete|list>
+    permission: tsoul.use
+permissions:
+  tsoul.use:
+    default: op

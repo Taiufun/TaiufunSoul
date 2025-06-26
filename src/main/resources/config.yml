@@ -1,0 +1,11 @@
+soulbound-lore: "&cПривязан к %player%"
+prevent-pickup: true
+prevent-drop: true
+messages:
+  no-permission: "&cУ тебя нет прав!"
+  not-owner: "&cЭтот предмет тебе не принадлежит!"
+  item-saved: "&aПредмет сохранён как %id%"
+  item-given: "&aПредмет %id% выдан %player%"
+  item-deleted: "&aПредмет %id% удалён"
+  item-not-found: "&cПредмет %id% не найден"
+  cannot-store: "&cНельзя класть уникальный предмет в контейнеры!"
