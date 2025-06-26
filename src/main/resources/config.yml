@@ -8,4 +8,4 @@ messages:
   item-given: "&aПредмет %id% выдан %player%"
   item-deleted: "&aПредмет %id% удалён"
   item-not-found: "&cПредмет %id% не найден"
-  cannot-store: "&cНельзя класть уникальный предмет в конты!"
+  cannot-store: "&cНельзя брать чужой уникальный предмет из контейнера!"
